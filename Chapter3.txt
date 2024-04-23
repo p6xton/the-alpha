@@ -1,0 +1,1 @@
+We get the current state of the current state.
